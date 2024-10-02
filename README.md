@@ -72,10 +72,14 @@ This post is made for educational purposes to understand how to bypass the game.
 1) Find the file `main.js` and open it
  
    ![find](images/2_1.png)
+## OLD STEP : 
 2) Press `Ctrl+F` and search the function `return this['_data']['rewar' + 'd']`
- 
+## NEW STEP : 
    ![find](images/v2_3_2.jpg)
- 
+ 2) Press `Ctrl+F` and search the function `return this['_data'][... + 'd']`
+Now the function has been obfuscated so you need to find like `return this['_data'][_0x4ba038(0x9c5) + 'd'];`
+Notice the + 'd' function that remains here.
+
 3) Click to the left on the gray line to place a breakpoint
  
    ![find](images/v2_3_3.jpg)
