@@ -1,6 +1,7 @@
 ## Learning how to hack the game in 5 minutes! (Farm Merge Valley in Discord)
 [![Hits](https://hits.sh/github.com/earluv/discord-farm-merge-valley-hack.svg)](https://hits.sh/github.com/earluv/discord-farm-merge-valley-hack/)
- 
+
+### Credits goes to wooslow, i just modify for v2, functionning on 02/10/2024
 ### What you need?
 - browser (preferably Google Chrome)
 - 5 minutes of free time 
@@ -115,9 +116,4 @@ If you did everything correctly, you should see the items you specified.
 If I was able to help you, please star the repository. This will help me in my further work.
  
 <h3> Important: This material is made for educational purposes only. I do not encourage using this method and am not responsible for your actions. </h3>
- 
-### Contact Me:
- 
-[Telegram](https://t.me/wooslow_dev)
- 
-[Discord](https://discord.gg/muk775Ndf4)
+
