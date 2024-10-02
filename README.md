@@ -74,8 +74,8 @@ This post is made for educational purposes to understand how to bypass the game.
    ![find](images/2_1.png)
 ## OLD STEP : 
 2) Press `Ctrl+F` and search the function `return this['_data']['rewar' + 'd']`
-## NEW STEP : 
    ![find](images/v2_3_2.jpg)
+## NEW STEP : 
  2) Press `Ctrl+F` and search the function `return this['_data'][... + 'd']`
 Now the function has been obfuscated so you need to find like `return this['_data'][_0x4ba038(0x9c5) + 'd'];`
 Notice the + 'd' function that remains here.
